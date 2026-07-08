@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate Programmer who is into programming and Machine Learning and a fan of Counter Strike 2 </h3>
+<h3 align="center">A passionate Programmer who is into programming and a fan of Counter Strike 2 </h3>
 
 - 🔭 I’m currently working on ****
 
