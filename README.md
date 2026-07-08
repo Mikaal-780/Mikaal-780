@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate Programmer who is into programming and Machine Learning and a fan of Metal Gear AND Tatical Shooter games and</h3>
 
-- 🔭 I’m currently working on **Metal gear Mind which is a project i can't talked about**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Programming**
 
-- ⚡ Fun fact **I am 15 years old**
+- ⚡ Fun fact **I am 16 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
